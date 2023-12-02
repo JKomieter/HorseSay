@@ -1,0 +1,10 @@
+/Users/joelkomieter/Documents/GitHub/HorseSay/horsesay/target/debug/deps/assert_cmd-3b65eb2b7c72f1b8.rmeta: /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md
+
+/Users/joelkomieter/Documents/GitHub/HorseSay/horsesay/target/debug/deps/assert_cmd-3b65eb2b7c72f1b8.d: /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs /Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md
+
+/Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs:
+/Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs:
+/Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs:
+/Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs:
+/Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs:
+/Users/joelkomieter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md:
